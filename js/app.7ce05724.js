@@ -46,7 +46,7 @@
           r = n(() =>
             (0, l._)(
               "a",
-              { class: "navbar-brand", href: "/" },
+              { class: "navbar-brand", href: "/SPACDYNA/" },
               [
                 (0, l._)("h2", null, [
                   (0, l.Uk)(" SPAC"),
